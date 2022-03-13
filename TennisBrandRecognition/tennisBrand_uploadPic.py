@@ -1,5 +1,9 @@
 import boto3
 
+'''
+This file will create the tennispics bucket and upload a given image from your local computer
+'''
+
 s3 = boto3.client('s3', region_name='us-east-1')
 s3resource = boto3.resource('s3', region_name='us-east-1')
 
