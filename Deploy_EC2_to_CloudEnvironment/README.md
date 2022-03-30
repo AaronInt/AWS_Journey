@@ -1,7 +1,7 @@
 # This script will create an EC2 instance that installs apache and is deployed into a cloud environment.
 
 ## Steps:
-
+### Need to create key pair first to associate with ec2 instance
 <ol>
   <li>Create VPC</li>
   <li>Create Internet Gateway</li>
