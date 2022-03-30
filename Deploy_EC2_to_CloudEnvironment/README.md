@@ -1,4 +1,4 @@
-# This script will create an EC2 instance that installs apache and is deployed onto a cloud environment.
+# This script will create an EC2 instance that installs apache and is deployed into a cloud environment.
 
 ## Steps:
 
